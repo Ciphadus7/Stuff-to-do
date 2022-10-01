@@ -2,8 +2,8 @@
 Stuff that I need to do**
 
 **NETWORKING:**
-	- https://www.udemy.com/course/ccna-complete/
-	- https://www.youtube.com/watch?v=RWgW-CgdIk0
+- https://www.udemy.com/course/ccna-complete/
+- https://www.youtube.com/watch?v=RWgW-CgdIk0
 
 
 
