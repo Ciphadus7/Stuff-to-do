@@ -30,7 +30,7 @@
 - https://www.youtube.com/watch?v=44Wv4OGdmu4  - KEYBOARD
 - https://www.makeuseof.com/how-to-build-a-diy-qmk-powered-macro-keypad/  - KEYBOARD
 - https://matt3o.com/building-a-keyboard-firmware/  - KEYBOARD FIRMWARE
-~~- https://www.youtube.com/watch?v=yxygknX1AiE  - MONITOR PANELS~~
+- ~~https://www.youtube.com/watch?v=yxygknX1AiE  - MONITOR PANELS~~
 
 
 **LINUX:**
