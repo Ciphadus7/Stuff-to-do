@@ -1,5 +1,5 @@
-**# Stuff-to-do
-Stuff that I need to do**
+# Stuff-to-do
+
 
 **NETWORKING:**
 - https://www.udemy.com/course/ccna-complete/
