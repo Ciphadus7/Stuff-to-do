@@ -11,7 +11,7 @@
 **FINANCE:**
 - https://corporatefinanceinstitute.com/resources/knowledge/trading-investing/stock-market/
 - https://www.atfx.com/en/analysis/trading-strategies/how-to-start-trading-for-beginners
-- ~~https://www.youtube.com/watch?v=WEDIj9JBTC8 ~~ - Pretty good. 
+- ~~https://www.youtube.com/watch?v=WEDIj9JBTC8~~ - Pretty good. 
 - https://www.youtube.com/watch?v=zVcwvCL2C2c
       
 
